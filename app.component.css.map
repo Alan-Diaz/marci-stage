@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/app.component.css"],
-  "sourcesContent": ["\n.whatsapp-float {\n  position: fixed;\n  width: 5.5rem;\n  height: 5.5rem;\n  bottom: 3rem;\n  right: 3rem;\n  border-radius: 50%;\n  box-shadow: 0 4px 10px rgba(0,0,0,0.3);\n  z-index: 999;\n}"],
-  "mappings": ";AACA,CAAC;AACC,YAAU;AACV,SAAO;AACP,UAAQ;AACR,UAAQ;AACR,SAAO;AACP,iBAAe;AACf,cAAY,EAAE,IAAI,KAAK,KAAK,CAAC,EAAC,CAAC,EAAC,CAAC,EAAC;AAClC,WAAS;AACX;",
-  "names": []
-}

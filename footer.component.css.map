@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/footer/footer.component.css"],
-  "sourcesContent": [".footer-full {\n    /* elimina el padding del container padre */\n  background: #e0e0e0;   /* gris claro */\n  width: 100vw;\n  position: relative;\n  left: 50%;\n  right: 50%;\n  margin-left: -50vw;\n  margin-right: -50vw;\n}\n.img-square {\n  width: 20px;     /* tu tama\u00F1o */\n  height: 20px;    /* igual para cuadrado */\n  object-fit: contain; /* mantiene proporci\u00F3n sin deformar */\n}\n\n.list-unstyled li {\n  display: flex;\n  align-items: center;   /* centra verticalmente */\n  gap: 10px;             /* espacio entre icono y texto */\n}\n\n.img-square {\n  width: 24px;\n  height: 24px;\n  object-fit: contain;\n}\nh5 {\n  font-size: 2rem; /* m\u00E1s grande */\n  font-weight: 600; /* opcional */\n  font-weight: bold;\n}\n"],
-  "mappings": ";AAAA,CAAC;AAEC,cAAY;AACZ,SAAO;AACP,YAAU;AACV,QAAM;AACN,SAAO;AACP,eAAa;AACb,gBAAc;AAChB;AACA,CAAC;AACC,SAAO;AACP,UAAQ;AACR,cAAY;AACd;AAEA,CAAC,cAAc;AACb,WAAS;AACT,eAAa;AACb,OAAK;AACP;AAEA,CAZC;AAaC,SAAO;AACP,UAAQ;AACR,cAAY;AACd;AACA;AACE,aAAW;AACX,eAAa;AACb,eAAa;AACf;",
-  "names": []
-}

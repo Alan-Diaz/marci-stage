@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/home/services-mkt/services-mkt.component.css"],
-  "sourcesContent": [".contenedor{\n    color: white;\n}\n.bg-negro {\n  background: var(--blue); /* negro con transparencia */\n  width: 100vw;\n  position: relative;\n  left: 50%;\n  right: 50%;\n  margin-left: -50vw;\n  margin-right: -50vw;\n  position: relative;\n}\n.box{\n  width: 100%;\n}\n/* Caja de cada servicio */\n.card-servicio {\n  color: var(--blue);\n  background: #ffffff;\n  padding: 30px;\n  position: relative;\n}\n\n/* L\u00EDnea amarilla arriba */\n.card-servicio::before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 6px;\n  background: var(--yellow); /* tu amarillo */\n}\n\n/* Centramos textos de t\u00EDtulos y p\u00E1rrafos */\n.card-servicio h4 {\n  font-weight: 700;\n}\n\n.card-servicio p {\n  margin: 0;\n}\n\n.btn-big{\n    font-size: 1.25rem;\n    padding: 0.75rem 1.5rem;\n}\nimg{\n  width: 100%;\n  aspect-ratio: 16 / 9; /* o 1/1, 4/3, etc */\n  object-fit: cover;\n}"],
-  "mappings": ";AAAA,CAAC;AACG,SAAO;AACX;AACA,CAAC;AACC,cAAY,IAAI;AAChB,SAAO;AACP,YAAU;AACV,QAAM;AACN,SAAO;AACP,eAAa;AACb,gBAAc;AACd,YAAU;AACZ;AACA,CAAC;AACC,SAAO;AACT;AAEA,CAAC;AACC,SAAO,IAAI;AACX,cAAY;AACZ,WAAS;AACT,YAAU;AACZ;AAGA,CARC,aAQa;AACZ,WAAS;AACT,YAAU;AACV,OAAK;AACL,QAAM;AACN,SAAO;AACP,UAAQ;AACR,cAAY,IAAI;AAClB;AAGA,CAnBC,cAmBc;AACb,eAAa;AACf;AAEA,CAvBC,cAuBc;AACb,UAAQ;AACV;AAEA,CAAC;AACG,aAAW;AACX,WAAS,QAAQ;AACrB;AACA;AACE,SAAO;AACP,gBAAc,GAAG,EAAE;AACnB,cAAY;AACd;",
-  "names": []
-}

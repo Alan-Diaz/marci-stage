@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/components/home/head/head.component.css"],
-  "sourcesContent": [".back{\n    color: var(--blue);\n    background-color: #fff;\n}\n.text h1 {\n    font-size: 2.5rem;\n    font-weight: 400;\n    margin: 0;\n}\n\n.text h2 {\n    font-size: 2rem;\n    font-weight: 600;\n    margin: 0.1rem 0;\n}\n\n.marci-mkt {\n    width: 100%;\n    height: auto;\n    border-radius: 50%;\n}\n.marci-mkt-phone{\n    width: 7rem;\n    height: 7rem;\n    border-radius: 50%;\n}\n\n.carousel-container{\n    width: 21rem;\n    height: 12.938rem;\n    background-color: var(--light-green);\n    display: block;\n    box-shadow: inset;\n    border-radius: 1.5rem;\n    box-shadow:0 4px 10px rgba(0,0,0,0.3);\n    margin-bottom: 1.1rem;\n    margin-top: 1rem;\n}\n"],
-  "mappings": ";AAAA,CAAC;AACG,SAAO,IAAI;AACX,oBAAkB;AACtB;AACA,CAAC,KAAK;AACF,aAAW;AACX,eAAa;AACb,UAAQ;AACZ;AAEA,CANC,KAMK;AACF,aAAW;AACX,eAAa;AACb,UAAQ,OAAO;AACnB;AAEA,CAAC;AACG,SAAO;AACP,UAAQ;AACR,iBAAe;AACnB;AACA,CAAC;AACG,SAAO;AACP,UAAQ;AACR,iBAAe;AACnB;AAEA,CAAC;AACG,SAAO;AACP,UAAQ;AACR,oBAAkB,IAAI;AACtB,WAAS;AACT,cAAY;AACZ,iBAAe;AACf,cAAW,EAAE,IAAI,KAAK,KAAK,CAAC,EAAC,CAAC,EAAC,CAAC,EAAC;AACjC,iBAAe;AACf,cAAY;AAChB;",
-  "names": []
-}
