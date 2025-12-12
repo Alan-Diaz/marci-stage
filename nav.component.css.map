@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/nav/nav.component.css"],
+  "sourcesContent": ["\n.navbar{\n    background-color: white !important;\n}\ndiv ul li a, .head-title, a{\n    color: var(--blue);\n}\n.head-title{\n   margin: 0;\n   text-align: center;\n}\n.img{\n    height: 7.5rem;\n}\n.navshadow{\n    box-shadow: 0 4px 10px rgba(0,0,0,0.2);\n}\n.nav-item{\n    size: 15rem;\n}\n"],
+  "mappings": ";AACA,CAAC;AACG,oBAAkB;AACtB;AACA,IAAI,GAAG,GAAG;AAAG,CAAC;AAAY;AACtB,SAAO,IAAI;AACf;AACA,CAHc;AAIX,UAAQ;AACR,cAAY;AACf;AACA,CAAC;AACG,UAAQ;AACZ;AACA,CAAC;AACG,cAAY,EAAE,IAAI,KAAK,KAAK,CAAC,EAAC,CAAC,EAAC,CAAC,EAAC;AACtC;AACA,CAAC;AACG,QAAM;AACV;",
+  "names": []
+}

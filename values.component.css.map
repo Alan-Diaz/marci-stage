@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/home/values/values.component.css"],
+  "sourcesContent": ["\n\n.bold{\n    font-weight: 600;\n    font-size: 2rem;\n    color: var(--blue);\n}\n\n/* Base rectangulo */\n.base{\nbackground: rgba(242, 242, 242, 0.3);\nbox-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);\n}\np{\n    color: var(--blue);\n    font-style: italic;\n    text-align: center;\n}\n.values-text{\n\n    font-weight: 600;\n    font-size: 1.5rem;\n}\n\n\n"],
+  "mappings": ";AAEA,CAAC;AACG,eAAa;AACb,aAAW;AACX,SAAO,IAAI;AACf;AAGA,CAAC;AACD,cAAY,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAChC,cAAY,IAAI,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACtC;AACA;AACI,SAAO,IAAI;AACX,cAAY;AACZ,cAAY;AAChB;AACA,CAAC;AAEG,eAAa;AACb,aAAW;AACf;",
+  "names": []
+}

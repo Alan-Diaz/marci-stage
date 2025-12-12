@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/blog/blog-detail/blog-detail.component.css"],
+  "sourcesContent": ["p {\n  text-align: justify;\n}"],
+  "mappings": ";AAAA;AACE,cAAY;AACd;",
+  "names": []
+}

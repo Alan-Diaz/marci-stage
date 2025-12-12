@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/blog/blog.component.css"],
+  "sourcesContent": ["h3{\n    color: var(--blue);\n}\n.img{\n    width: 100%;\n    height: auto;\n}\n.arrow{\n    width: 3%;\n    height: auto;\n}"],
+  "mappings": ";AAAA;AACI,SAAO,IAAI;AACf;AACA,CAAC;AACG,SAAO;AACP,UAAQ;AACZ;AACA,CAAC;AACG,SAAO;AACP,UAAQ;AACZ;",
+  "names": []
+}
